@@ -82,4 +82,4 @@ Since 2022, I have built a large number of custom tools for clients, including d
 ## Contact
 
 - GitHub: [EthanYang-hub](https://github.com/EthanYang-hub)
-- Email: `yyzhtx@126.com`
+- Email: `ethan.yang.enshi@gmail.com`
