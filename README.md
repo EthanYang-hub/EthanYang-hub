@@ -1,4 +1,4 @@
-# Yi Yang
+# Ethan Yang
 
 Java Backend Engineer | Python Automation Developer | Data Workflow Builder
 
