@@ -1,4 +1,4 @@
-# Ethan Yang
+# Yi Yang
 
 Java Backend Engineer | Python Automation Developer | Data Workflow Builder
 
@@ -59,6 +59,17 @@ I have 10+ years of engineering experience across backend systems, high-throughp
 ### SF Technology
 
 Worked on large-scale logistics and internal business systems, including order services, waybill services, discount-management systems, and image-generation services. My work included backend development, data workflows, service integration, performance optimization, and support for business-facing operations tools.
+
+#### Selected Enterprise Projects
+
+- **Order & Waybill Core Services**  
+  Worked on core logistics backend services that aggregated orders from multiple upstream channels, standardized routing-related data, and distributed downstream waybill events. The platform handled about 30 million orders per day and about 120 million downstream waybill events per day.
+
+- **Waybill Image Generation Service**  
+  Helped redesign a legacy image-generation workflow from pre-generated storage-heavy processing into an on-demand model with reusable image components. This reduced storage usage by about 90% and improved image generation latency from around 1 second to around 300 ms.
+
+- **Discount Analytics and Task Dispatch Platform**  
+  Built and maintained a business analytics and task workflow platform used for discount-related customer analysis, abnormal-customer monitoring, reporting, and operational follow-up. The system reduced manual reporting effort and improved visibility for business teams.
 
 ### Freelance Engineering
 
