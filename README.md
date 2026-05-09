@@ -71,6 +71,12 @@ Worked on large-scale logistics and internal business systems, including order s
 - **Discount Analytics and Task Dispatch Platform**  
   Built and maintained a business analytics and task workflow platform used for discount-related customer analysis, abnormal-customer monitoring, reporting, and operational follow-up. The system reduced manual reporting effort and improved visibility for business teams.
 
+#### Enterprise Case Studies
+
+- [Order & Waybill Core Services](case-studies/sf-order-waybill-core-services.md)
+- [Waybill Image Generation Service](case-studies/sf-waybill-image-generation-service.md)
+- [Discount Analytics and Task Dispatch Platform](case-studies/sf-discount-analytics-platform.md)
+
 ### Freelance Engineering
 
 Since 2022, I have built a large number of custom tools for clients, including data crawlers, desktop clients, automation scripts, admin platforms, monitoring tools, and integration workflows. Many of these projects were designed to replace repetitive manual operations with stable internal software.
